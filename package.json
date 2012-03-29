@@ -1,0 +1,19 @@
+{
+  "name": "BrowserQuest",
+  "description": "BrowserQuest", 
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "*",
+    "memcache": "*",
+    "log": "*",
+    "bison": "*",
+    "websocket": "*",
+    "websocket-server": "*",
+    "sanitizer": "*"
+  },
+  "engines": {
+    "node": "0.6.x"
+  },
+  "main": "server/js/main.js" 
+}
+
